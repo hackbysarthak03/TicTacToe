@@ -1,16 +1,18 @@
-# tictactoe
+# TicTacToe Game
 
-A new Flutter project.
+***Used Dart Language + Flutter Framework***
 
-## Getting Started
+TicTacToe Game that gives you an experience to play with your opponent and challenge them :)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Getting started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+>   _This Section will introduce you to the first Screen of TicTacToe_
+
+### First Screen
+
+![First Page](lib/assets/Screenshot_20230418-111601_1.png)
+
+
+
